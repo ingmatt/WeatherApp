@@ -1,0 +1,35 @@
+
+body {
+  background-color: #FFF6C3;
+  color: #DC0000;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-weight: bold;
+  font-size: 100px;
+}
+
+img {
+  margin-top: 20px;
+  margin-left: 600px;
+  height: 200px;
+  width: 400px;
+}
+
+.search {
+  margin-top: 250px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+}
+
+.input-box {
+  width: 500px;
+}
